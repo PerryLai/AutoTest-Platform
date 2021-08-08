@@ -1,4 +1,4 @@
-Auto Test Platform 基礎使用說明
+AutoTest Platform System 基礎使用說明
 ===
 ## 一、 架構
 ---
