@@ -1,0 +1,1 @@
+Testcase 1 success ratio for ICMP: 100.0% ( No loss. )
