@@ -1,0 +1,28 @@
+---------- Data Link Layer ----------
+
+DMAC: dca632cc1f37
+SMAC: 027dfa001001
+VLAN Layer Type: 8100
+
+---------- Network Layer ----------
+
+Network Layer ID: 0004
+Network Layer Type: 86dd (86dd)
+Network Layer Version: 6
+Network_Layer_Traffic_Class: 00
+Network_Layer_Flow_Label: 53e4c
+Network_Layer_Payload_Length: 0040
+Network_Layer_Hop_Limit: 3f
+Source IP: fd537cb80383000e00000000000000ee (fd53:7cb8:383:e::ee/128)
+Destination IP: fd537cb8038300040000000000000010 (fd53:7cb8:383:4::10/128)
+Protocol: 3a (ICMPv6)
+
+---------- Transport Layer ----------
+
+Transport_Layer_Type_Ping_Echo: 81 (Request)
+Transport Layer Code: 00
+Transport Layer Checksum: 729d
+Transport Layer Identifier: 2f6e
+Sequence Number: 0051
+
+Data: adbf0f6133d6040008090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f202122232425262728292a2b2c2d2e2f3031323334353637./01234567
